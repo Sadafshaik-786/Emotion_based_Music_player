@@ -1,0 +1,6 @@
+pip install deepface
+pip install opencv-python
+pip install pygame
+pip install pyttsx3
+pip install numpy==1.23.5
+pip install tensorflow==2.9.1
